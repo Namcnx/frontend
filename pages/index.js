@@ -29,7 +29,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-       <title>รับออกแบบและพัฒนาเว็บไซต์</title>
+       <title>ออกแบบและพัฒนาเว็บไซต์</title>
       </Head>
       <div className={classes.root}>
       <AppBar position="static">
